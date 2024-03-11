@@ -1,0 +1,197 @@
+"chk_yn","menu_id","menu_upper_id","menu_ordr","menu_title","menu_depth","menu_url","menu_gubun","menu_use_yn","menu_bsns_cl","menu_dc"
+"0",MENU0000000178,MENU0000000147,1,이용약관,4,/wqxml/usr/70notc/useStpl.xml,,Y,,
+"0",MENU0000000181,MENU0000000143,1,구인기업정보,4,/wqxml/usr/30wfsCntr/wfsJbofEnpInfo.xml,,N,,
+"0",MENU0000000003,MENU0000000002,1,메뉴관리,5,/wqxml/adm/99sysMng/menuMng/menuMng.xml,,Y,,
+"0",MENU0000000200,MENU0000000040,1,자료등록,5,/wqxml/adm/50smebsc/bizMng/bscBizNewUpldAtflSttn.xml,,Y,,
+"0",MENU0000000048,MENU0000000017,1,사업설정,5,/wqxml/adm/10bizMng/reg/bizSttn.xml,,Y,,설명 테스트
+"0",MENU0000000050,MENU0000000018,1,학생DB,5,/wqxml/adm/10bizMng/dbMng/stdnRegSttn.xml,,N,,
+"0",MENU0000000053,MENU0000000019,1,학교소식 관리,5,/wqxml/adm/10bizMng/ntthMng/schlNwsMng.xml,,Y,,
+"0",MENU0000000055,MENU0000000020,1,전체현황,5,/wqxml/adm/10bizMng/hmpyLinkMng/hmpyLinkMngWhl.xml,,Y,,
+"0",MENU0000000056,MENU0000000021,1,신청접수,5,/wqxml/adm/10bizMng/bizAply/aplyAcptSttn.xml,,Y,,
+"0",MENU0000000059,MENU0000000022,1,사업비 확정,5,/wqxml/adm/10bizMng/bizMng/bizcsDfntSttn.xml,,N,,
+"0",MENU0000000067,MENU0000000023,1,성과지표 현황,5,/wqxml/adm/20spclhs/statSttn/spclhsRsltIndx.xml,,Y,,
+"0",MENU0000000073,MENU0000000024,1,참여기업,5,/wqxml/adm/10bizMng/poolMng/JoinEnpPoolSttn.xml,,Y,,
+"0",MENU0000000228,MENU0000000212,1,사업설정,5,/wqxml/adm/80hssppl/hsspplSttn.xml,,Y,,
+"0",MENU0000000241,MENU0000000240,1,사업비예산신청 관리,5,/wqxml/adm/22techo/statSttn/workExpnsBudgetMng.xml,,Y,,
+"0",MENU0000000229,MENU0000000213,1,신청접수현황,5,/wqxml/adm/80hssppl/hsspplAsgnSttn.xml,,Y,,
+"0",MENU0000000231,MENU0000000215,1,사업별 진행현황,5,/wqxml/adm/80hssppl/hsspplPrgrSttn.xml,,Y,,사업별 진행현황
+"0",MENU0000000085,MENU0000000029,1,신청접수,5,/wqxml/adm/10bizMng/bizAply/aplyAcptSttn.xml,,Y,,
+"0",MENU0000000086,MENU0000000030,1,참여학생 현황,5,/wqxml/adm/23eict/statSttn/eictPartStdnStat.xml,,Y,,
+"0",MENU0000000089,MENU0000000031,1,신청접수,5,/wqxml/adm/30smehrd/bizMng/hrdAplyAcptSttn.xml,ACPT,Y,,
+"0",MENU0000000077,MENU0000000026,1,신입생모집 현황,5,/wqxml/adm/21cndept/newStatSttn/newStdnRectSttn.xml,,Y,,
+"0",MENU0000000082,MENU0000000027,1,신청접수,5,/wqxml/adm/10bizMng/bizAply/aplyAcptSttn.xml,,Y,,
+"0",MENU0000000092,MENU0000000032,1,신청기업 현황,5,/wqxml/adm/30smehrd/bizMng/hrdAplyAcptSttn.xml,WHL,Y,,
+"0",MENU0000000094,MENU0000000033,1,신청접수,5,/wqxml/adm/31idtcag/bizMng/idtcagAplyAcptSttn.xml,,Y,,
+"0",MENU0000000096,MENU0000000034,1,전체보기,5,/wqxml/adm/31idtcag/statSttn/whlWch.xml,,Y,,
+"0",MENU0000000225,MENU0000000275,1,업무연락방 현황,5,/wqxml/adm/24bizofc/bizofcCmnSttn.xml,,Y,,
+"0",MENU0000000098,MENU0000000035,1,온라인증빙 업체,5,/wqxml/adm/31idtcag/bizMng/idtcagOnlineEvidence.xml,,Y,,
+"0",MENU0000000101,MENU0000000036,1,신청등록,5,/wqxml/adm/40wfsCntr/wfsAplySttn.xml,,N,,
+"0",MENU0000000102,MENU0000000037,1,답변등록,5,/wqxml/adm/40wfsCntr/wfsCnslSttn.xml,,N,,
+"0",MENU0000000083,MENU0000000028,1,사업비 교부/집행 현황,5,/wqxml/adm/22techo/statSttn/techoWorkExpnsStat.xml,,Y,,
+"0",MENU0000000103,MENU0000000038,1,학교(기관) 담당자등록,5,/wqxml/adm/40wfsCntr/wfsAthrMng.xml,,N,,
+"0",MENU0000000104,MENU0000000039,1,전국신청 현황,5,/wqxml/adm/40wfsCntr/wfsAplySttn.xml,,N,,
+"0",MENU0000000108,MENU0000000041,1,성과공유기업 정보,5,/wqxml/adm/50smebsc/statSttn/bscBizInsttInfo.xml,,Y,,
+"0",MENU0000000114,MENU0000000043,1,설문지관리 현황,5,/wqxml/adm/60survey/surveyMng/surveyMngReport.xml,,Y,,
+"0",MENU0000000115,MENU0000000044,1,설문지응답 현황,5,/wqxml/adm/60survey/surveyStats/surveyStatusReplyReport.xml,,Y,,
+"0",MENU0000000117,MENU0000000045,1,사업관리 현황,5,/wqxml/adm/70rcgntn/bizMnt/bizMntReport.xml,,Y,,
+"0",MENU0000000119,MENU0000000046,1,자료등록,5,/wqxml/adm/70rcgntn/bizMnt/bizMntReport.xml,,Y,,
+"0",MENU0000000120,MENU0000000047,1,자료등록 현황,5,/wqxml/adm/70rcgntn/bizMnt/bizMntReport.xml,,Y,,
+"0",MENU0000000126,MENU0000000122,1,공통코드 관리,5,/wqxml/adm/99sysMng/cmnMng/cmnCdMngSttn.xml,,Y,,
+"0",MENU0000000204,MENU0000000203,1,구인기업정보,5,/wqxml/cmn/mobile/m_0814_page00.xml,,Y,,기업인력애로센터 모바일(메뉴숨김)
+"0",MENU0000000111,MENU0000000042,1,신청접수,5,/wqxml/adm/50smebsc/reqstMng/reqstRceptList.xml,,Y,,
+"0",MENU0000000076,MENU0000000025,1,신청접수,5,/wqxml/adm/10bizMng/bizAply/aplyAcptSttn.xml,,Y,,
+"0",MENU0000000218,MENU0000000146,1,Q&A,4,/wqxml/usr/60prtc/qa/qaSttn.xml,,Y,,
+"0",MENU0000000148,MENU0000000141,1,중소기업 특성화고 인력양성사업,4,/wqxml/usr/10intd/intdBizSpclhs.xml,,Y,,
+"0",MENU0000000156,MENU0000000142,1,미래성과공유기업 지정신청,4,/wqxml/usr/20aply/smebsc/bscFutureReqstList.xml,,Y,,
+"0",MENU0000000164,MENU0000000144,1,공지사항,4,/wqxml/usr/40anns/ntfyMtr/ntfyMtr.xml,,Y,,
+"0",MENU0000000131,MENU0000000123,1,회원내역,5,/wqxml/adm/10bizMng/mbrSttn/mbrItmz.xml,,Y,,
+"0",MENU0000000134,MENU0000000124,1,포탈접속 로그,5,/wqxml/adm/99sysMng/logMng/lgnHistMngInqr.xml,,Y,,
+"0",MENU0000000167,MENU0000000145,1,참여학교현황,4,/wqxml/usr/50info/prtcSchl/prtcSchlSttn.xml,,Y,,
+"0",MENU0000000189,MENU0000000258,1,취업맞춤반운영,4,/wqxml/usr/20aply/spclhs/jobStdnSttn.xml,"",Y,"",""
+"0",MENU0000000277,MENU0000000125,1,서비스요청현황,5,/wqxml/adm/99sysMng/serviceRqst/svrRqstAdminRply.xml,"",Y,"",""
+"0",MENU0000000105,MENU0000000039,2,부서별신청 현황,5,/wqxml/adm/40wfsCntr/wfsDeptAplySttn.xml,,N,,
+"0",MENU0000000049,MENU0000000017,2,사업공고,5,/wqxml/adm/10bizMng/reg/bizNotcSttn.xml,,Y,,
+"0",MENU0000000107,MENU0000000040,2,자료등록 관리,5,/wqxml/adm/50smebsc/bizMng/bscBizUpldAtflSttn.xml,,N,,
+"0",MENU0000000205,MENU0000000203,2,우리학교 진행현황,5,/wqxml/cmn/mobile/m_0814_page01.xml,,Y,,기업인력애로센터 모바일(메뉴숨김)
+"0",MENU0000000109,MENU0000000041,2,성과공유기업 실적,5,/wqxml/adm/50smebsc/statSttn/bscBizIntroSttn.xml,,Y,,
+"0",MENU0000000068,MENU0000000023,2,진로 현황,5,/wqxml/adm/20spclhs/statSttn/crrSttn.xml,,Y,,
+"0",MENU0000000136,MENU0000000125,2,팝업페이지,5,/wqxml/adm/99sysMng/ptlMng/popupPageInqr.xml,"",Y,"",""
+"0",MENU0000000127,MENU0000000122,2,회계계정 관리,5,/wqxml/adm/99sysMng/cmnMng/acnnAcntMngSttn.xml,,Y,,
+"0",MENU0000000121,MENU0000000047,2,자료결과 현황,5,/wqxml/adm/70rcgntn/bizMnt/bizMntReport.xml,,Y,,
+"0",MENU0000000118,MENU0000000045,2,프로그램 관리,5,/wqxml/adm/70rcgntn/bizMnt/bizMntPrgmReport.xml,,Y,,
+"0",MENU0000000116,MENU0000000044,2,설문지발송 현황,5,/wqxml/adm/60survey/surveyStats/surveyStatusSendReport.xml,,Y,,
+"0",MENU0000000087,MENU0000000030,2,참여기업 현황,5,/wqxml/adm/23eict/statSttn/joinEnp.xml,,Y,,
+"0",MENU0000000060,MENU0000000022,2,사업기본 현황,5,/wqxml/adm/10bizMng/bizMng/bizBscsSttn.xml,,N,,
+"0",MENU0000000004,MENU0000000002,2,권한관리,5,/wqxml/adm/99sysMng/menuMng/menuAuthorMng.xml,,Y,,
+"0",MENU0000000090,MENU0000000031,2,평가,5,/wqxml/adm/30smehrd/bizMng/hrdAplyAcptSttn.xml,DCMN,Y,,
+"0",MENU0000000057,MENU0000000021,2,현장평가,5,/wqxml/adm/10bizMng/bizAply/accnSrvySttn.xml,,Y,,
+"0",MENU0000000182,MENU0000000143,2,우리학교(기관) 진행현황,4,/wqxml/usr/30wfsCntr/wfsJbofPrgrSttn.xml,,N,,
+"0",MENU0000000078,MENU0000000026,2,참여학생 현황,5,/wqxml//adm/21cndept/newStatSttn/StdnSttn.xml,,N,,
+"0",MENU0000000054,MENU0000000019,2,권익침해 신고,5,/wqxml/adm/10bizMng/ntthMng/intrrtViolTSttn.xml,,Y,,
+"0",MENU0000000179,MENU0000000147,2,개인정보처리방침,4,/wqxml/usr/70notc/indvInfoStpl.xml,,Y,,
+"0",MENU0000000149,MENU0000000141,2,중소기업-근로자간성과공유제,4,/wqxml/usr/10intd/intdBizBscsbc.xml,"",Y,"",""
+"0",MENU0000000221,MENU0000000146,2,FAQ,4,/wqxml/usr/60prtc/faq/faqAdminList.xml,,Y,,관리자
+"0",MENU0000000168,MENU0000000145,2,교육프로그램,4,/wqxml/usr/50info/eduPrgm/clbySchlEduPrgm.xml,,N,,
+"0",MENU0000000093,MENU0000000032,2,진행 현황,5,/wqxml/adm/30smehrd/statSttn/hrdPrgrSttn.xml,,Y,,
+"0",MENU0000000165,MENU0000000144,2,사업공고,4,/wqxml/usr/40anns/bizNotc/bizNotc.xml,,Y,,
+"0",MENU0000000227,MENU0000000258,2,취업맞춤반예정현황,4,/wqxml/usr/20aply/spclhs/jobSchlSttn.xml,"",Y,"",""
+"0",MENU0000000097,MENU0000000034,2,진행현황,5,/wqxml/adm/31idtcag/statSttn/prgrSttn.xml,,Y,,
+"0",MENU0000000135,MENU0000000124,2,관리자권한 로그,5,/wqxml/adm/99sysMng/logMng/admRoleHistMng.xml,,Y,,
+"0",MENU0000000051,MENU0000000018,2,기업DB,5,/wqxml/adm/10bizMng/dbMng/joinEnpSttn.xml,,N,,
+"0",MENU0000000074,MENU0000000024,2,전문가,5,/wqxml/adm/10bizMng/poolMng/SpctrPoolSttn.xml,,N,,
+"0",MENU0000000243,MENU0000000275,2,학생관리 일정,5,/wqxml/adm/21cndept/stdnMng/stdnMngSchdl.xml,,Y,,
+"0",MENU0000000275,MENU0000000008,2,사업관리,4,"","",Y,"",""
+"0",MENU0000000099,MENU0000000035,2,병역지정 업체,5,/wqxml/adm/31idtcag/bizMng/idtcagAppntEnts.xml,,Y,,
+"0",MENU0000000242,MENU0000000240,2,사업비예산신청 등록,5,/wqxml/adm/22techo/statSttn/workExpnsBudgetReg.xml,,N,,
+"0",MENU0000000157,MENU0000000142,2,성과공유도입기업 지정신청,4,/wqxml/usr/20aply/smebsc/bscIndcReqstList.xml,,Y,,
+"0",MENU0000000132,MENU0000000123,2,권한관리,5,/wqxml/adm/10bizMng/mbrSttn/mbrAdminRole.xml,,Y,,
+"0",MENU0000000095,MENU0000000033,2,병무청추천,5,/wqxml/adm/31idtcag/bizMng/idtcagMmaRcmn.xml,,Y,,
+"0",MENU0000000209,MENU0000000042,2,만기도래,5,/wqxml/adm/50smebsc/reqstMng/exprtnAppvlList.xml,,Y,,
+"0",MENU0000000084,MENU0000000028,2,중소기업 협/단체협약 현황,5,/wqxml/adm/22techo/statSttn/techoAgreeOrgStat.xml,,N,,
+"0",MENU0000000260,MENU0000000028,3,월별실적 현황,5,/wqxml/adm/22techo/statSttn/techoMonthStdnStat.xml,"",Y,"",""
+"0",MENU0000000226,MENU0000000045,3,업무연락방 현황,5,/wqxml/adm/24bizofc/bizofcCmnSttn.xml,,Y,,
+"0",MENU0000000251,MENU0000000032,3,서면평가 총괄 현황,5,/wqxml/adm/30smehrd/statSttn/hrdAplyExcel.xml,"",Y,"",""
+"0",MENU0000000088,MENU0000000030,3,사업비 교부/집행 현황,5,/wqxml/adm/23eict/statSttn/eictWorkExpnsStat.xml,,Y,,
+"0",MENU0000000091,MENU0000000031,3,심의위원회,5,/wqxml/adm/30smehrd/bizMng/hrdAplyAcptSttn.xml,LAST,Y,,
+"0",MENU0000000079,MENU0000000026,3,학위취득 현황,5,/wqxml/adm/21cndept/newStatSttn/degrAcqsSttn.xml,,N,,
+"0",MENU0000000234,MENU0000000258,3,예산전용 신청,4,/wqxml/usr/20aply/bizDvr/budgetDvrSttn.xml,"",Y,"",""
+"0",MENU0000000100,MENU0000000035,3,소요인원대상 현황,5,/wqxml/adm/31idtcag/bizMng/idtcagPrtcpnt.xml,,Y,,
+"0",MENU0000000106,MENU0000000040,3,이전자료등록현황,5,/wqxml/adm/50smebsc/bizMng/bscBizAplyAtflSttn.xml,,Y,,
+"0",MENU0000000110,MENU0000000041,3,성과공유 협약 및 도입현황,5,/wqxml/adm/50smebsc/statSttn/bscBizTypeSttn.xml,,Y,,
+"0",MENU0000000112,MENU0000000042,3,신청기업 현황,5,/wqxml/adm/50smebsc/statSttn/entrprsSttnList.xml,,Y,,
+"0",MENU0000000128,MENU0000000122,3,성과지표 관리,5,/wqxml/adm/99sysMng/cmnMng/otcmIndxMngSttn.xml,,Y,,
+"0",MENU0000000061,MENU0000000022,3,보조금교부 검토,5,/wqxml/adm/10bizMng/bizMng/sbsdDlvyAplySttn.xml,,N,,
+"0",MENU0000000150,MENU0000000141,3,기술사관육성사업,4,/wqxml/usr/10intd/intdBizTecho.xml,,Y,,
+"0",MENU0000000158,MENU0000000142,3,"2018년도 성과공유 자료조회",4,/wqxml/usr/20aply/smebsc/bscBizView.xml,,Y,,
+"0",MENU0000000273,MENU0000000275,3,예산전용 신청현황,5,/wqxml/adm/21cndept/bdgtAplct/cndeptBudgetDvrRqstSttn.xml,"",Y,"",""
+"0",MENU0000000166,MENU0000000144,3,보도자료,4,/wqxml/usr/40anns/nwsItm/nwsItm.xml,,Y,,
+"0",MENU0000000169,MENU0000000145,3,학교소식,4,/wqxml/usr/50info/schlNws/schlNws.xml,,N,,
+"0",MENU0000000180,MENU0000000147,3,사이트맵,4,/wqxml/usr/70notc/siteMap.xml,,Y,,
+"0",MENU0000000198,MENU0000000124,3,시스템사용로그,5,/wqxml/adm/99sysMng/logMng/sysUsrHistMng.xml,,Y,,
+"0",MENU0000000005,MENU0000000002,3,권한별 메뉴관리,5,/wqxml/adm/99sysMng/menuMng/byAuthorMenuMng.xml,,Y,,
+"0",MENU0000000176,MENU0000000146,3,FAQ,4,/wqxml/usr/60prtc/faq/faqSttn.xml,,Y,,사용자
+"0",MENU0000000137,MENU0000000125,3,배너관리,5,/wqxml/adm/99sysMng/ptlMng/bnrPageInqr.xml,"",Y,"",""
+"0",MENU0000000133,MENU0000000123,3,기업애로센터 역할관리,5,/wqxml/adm/10bizMng/mbrSttn/mbrAdminRoleMnpw.xml,,N,,
+"0",MENU0000000052,MENU0000000018,3,우수학생DB,5,/wqxml/adm/10bizMng/dbMng/bestStdnSttn.xml,,N,,
+"0",MENU0000000058,MENU0000000021,3,선정평가,5,/wqxml/adm/10bizMng/bizAply/selEvalSttn.xml,,Y,,
+"0",MENU0000000248,MENU0000000240,3,업무연락방 현황,5,/wqxml/adm/24bizofc/bizofcCmnSttn.xml,"",Y,"",""
+"0",MENU0000000069,MENU0000000023,3,사업비 현황,5,/wqxml/adm/20spclhs/statSttn/bizcsSttn.xml,,N,,
+"0",MENU0000000258,"0000006X",3,특성화고,3,"","",Y,"",""
+"0",MENU0000000075,MENU0000000024,3,취업맞춤반 운영,5,/wqxml/adm/20spclhs/bizMng/jobStdnSttn.xml,,Y,,
+"0",MENU0000000222,MENU0000000017,3,업무연락방설정,5,/wqxml/adm/24bizofc/bizofcSttn.xml,,Y,,
+"0",MENU0000000261,MENU0000000028,4,참여학생 현황,5,/wqxml/adm/22techo/statSttn/techoStdnJoinSttn.xml,"",Y,"",""
+"0",MENU0000000223,MENU0000000024,4,업무연락방 현황,5,/wqxml/adm/24bizofc/bizofcCmnSttn.xml,,Y,,
+"0",MENU0000000253,MENU0000000032,4,평가기준표,5,/wqxml/adm/30smehrd/statSttn/hrdEvalCrt.xml,"",Y,"",""
+"0",MENU0000000151,MENU0000000141,4,중소기업계약학과,4,/wqxml/usr/10intd/intdBizCndept.xml,,Y,,
+"0",MENU0000000267,MENU0000000041,4,성과공유기업 실적(기업별),5,/wqxml/adm/50smebsc/statSttn/bscBizInsttExcl.xml,,Y,,
+"0",MENU0000000080,MENU0000000026,4,중도이탈자발생 현황,5,/wqxml/adm/21cndept/newStatSttn/mdwyDvtrOcrnSttn.xml,,N,,
+"0",MENU0000000249,MENU0000000035,4,증빙서류 목록,5,/wqxml/adm/31idtcag/statSttn/idtcagDoc.xml,"",Y,"",""
+"0",MENU0000000159,MENU0000000142,4,사업참여기업 신청,4,/wqxml/usr/20aply/spclhs/bizPrtcInsnSttn.xml,,Y,,
+"0",MENU0000000259,MENU0000000240,4,학생관리 일정,5,/wqxml/adm/22techo/bizMng/techoStdnMngSchdl.xml,"",Y,"",""
+"0",MENU0000000113,MENU0000000042,4,발급이력 현황,5,/wqxml/adm/50smebsc/statSttn/issuHistSttnList.xml,,Y,,
+"0",MENU0000000265,MENU0000000040,4,매뉴얼 관리,5,/wqxml/adm/50smebsc/bizMng/bscBizMnlMng.xml,"",Y,"",""
+"0",MENU0000000266,MENU0000000031,4,메뉴얼 관리,5,/wqxml/adm/30smehrd/bizMng/hrdAplyMnlMng.xml,,N,,
+"0",MENU0000000129,MENU0000000122,4,DB코드 관리,5,/wqxml/adm/99sysMng/cmnMng/dbCdMngSttn.xml,,Y,,
+"0",MENU0000000238,MENU0000000258,4,성과지표관리,4,/wqxml/usr/20aply/spclhs/spclhsOtcmIndxReg.xml,"",Y,"",""
+"0",MENU0000000139,MENU0000000125,4,편의성 설문조사,5,/wqxml/adm/99sysMng/ptlMng/cnvncSurveyDetl.xml,"",Y,"",""
+"0",MENU0000000219,MENU0000000146,4,"1:1 문의",4,/wqxml/usr/60prtc/ooQstn/ooQstnSaveNoLogin.xml,,N,,
+"0",MENU0000000140,MENU0000000002,4,메뉴별 프로그램관리,5,/wqxml/adm/99sysMng/menuMng/byMenuPrgmMng.xml,,Y,,
+"0",MENU0000000232,MENU0000000144,4,주택특별공급 사업공고,4,/wqxml/usr/40anns/bizNotc/hsspplCltgSttn.xml,,Y,,
+"0",MENU0000000062,MENU0000000022,4,사업비 집행,5,/wqxml/adm/10bizMng/bizMng/bizcsEctnSttn.xml,,N,,
+"0",MENU0000000070,MENU0000000023,4,프로그램운영 현황,5,/wqxml/adm/20spclhs/statSttn/prgmAdmSttn.xml,,N,,
+"0",MENU0000000233,MENU0000000018,4,예산전용DB,5,/wqxml/adm/10bizMng/dbMng/budgetDvrMstrSttn.xml,,Y,,
+"0",MENU0000000170,MENU0000000145,4,유용정보,4,/wqxml/usr/50info/prusInfo/prusInfoSttn.xml,,Y,,
+"0",MENU0000000071,MENU0000000023,5,특성화고 인력양성,5,/wqxml/adm/20spclhs/statSttn/spclhsMnpwTrnn.xml,,Y,,
+"0",MENU0000000152,MENU0000000141,5,대학연계중소기업인력양성사업,4,/wqxml/usr/10intd/intdBizEdinsp.xml,,N,,
+"0",MENU0000000254,MENU0000000258,5,실습장비 관리,4,/wqxml/usr/20aply/spclhs/smehrdEqpmnMngSttn.xml,"",Y,"",""
+"0",MENU0000000160,MENU0000000142,5,산업기능요원 신청하기,4,/wqxml/usr/20aply/idtcag/bizAplyCltg_BIZ.xml,,N,,
+"0",MENU0000000171,MENU0000000145,5,규정 및 서식,4,/wqxml/usr/50info/frmt/frmtSttn.xml,,Y,,
+"0",MENU0000000063,MENU0000000022,5,사업비 정산,5,/wqxml/adm/10bizMng/bizMng/bizcsExclSttn.xml,,N,,
+"0",MENU0000000081,MENU0000000026,5,참여기업 현황,5,/wqxml/adm/21cndept/newStatSttn/enpCtlg.xml,,N,,
+"0",MENU0000000177,MENU0000000146,5,"1:1 문의",4,/wqxml/usr/60prtc/ooQstn/ooQstnSttn.xml,,Y,,회원
+"0",MENU0000000252,MENU0000000035,5,관리자 Q&A,5,/wqxml/adm/31idtcag/qaAdmin/qaSttnAdm.xml,"",Y,"",""
+"0",MENU0000000237,MENU0000000024,5,예산전용 신청현황,5,/wqxml/adm/10bizMng/bizDvr/budgetDvrRqstSttn.xml,,Y,,
+"0",MENU0000000138,MENU0000000125,5,비밀번호 문의,5,/wqxml/adm/99sysMng/ptlMng/resultPwQstn.xml,"",N,"",""
+"0",MENU0000000130,MENU0000000122,5,희망학교 관리,5,/wqxml/adm/99sysMng/cmnMng/hpSchlMngSttn.xml,,N,,
+"0",MENU0000000262,MENU0000000028,5,참여기업 현황,5,/wqxml/adm/22techo/statSttn/techoDeptJoinSttn.xml,"",Y,"",""
+"0",MENU0000000269,MENU0000000031,5,유효기간 관리,5,/wqxml/adm/30smehrd/bizMng/hrdAplyValidMng.xml,"",Y,"",""
+"0",MENU0000000268,MENU0000000240,5,기술사관 참여사업단관리,5,/wqxml/adm/22techo/bizMng/techoPrtcMng.xml,"",Y,"",""
+"0",MENU0000000064,MENU0000000022,6,보고서 검토,5,/wqxml/adm/10bizMng/bizMng/rptdRvwSttn.xml,,N,,
+"0",MENU0000000214,MENU0000000122,6,템플릿 관리,5,/wqxml/adm/99sysMng/cmnMng/tmplatMng.xml,,Y,,
+"0",MENU0000000172,MENU0000000145,6,우수사례,4,/wqxml/usr/50info/sprrCase/sprrCaseSttn.xml,,Y,,
+"0",MENU0000000072,MENU0000000023,6,특성화고 실적(3개년),5,/wqxml/adm/20spclhs/statSttn/spclhsMnpwOutp.xml,,N,,
+"0",MENU0000000246,MENU0000000024,6,맞춤반 교육과정 현황,5,/wqxml/adm/99sysMng/cmnMng/hpSchlMngSttn.xml,"",Y,"",""
+"0",MENU0000000274,MENU0000000240,6,예산전용 신청현황,5,/wqxml/adm/22techo/bizMng/techBudgetDvrRqstSttn.xml,"",Y,"",""
+"0",MENU0000000161,MENU0000000142,6,산업기능요원 신청·조회,4,/wqxml/usr/20aply/idtcag/bizAplySttn_BIZ.xml,,Y,,
+"0",MENU0000000244,MENU0000000026,6,참여학생 현황,5,/wqxml/adm/21cndept/stdnMng/stdnJoinSttn.xml,,Y,,
+"0",MENU0000000153,MENU0000000141,6,산업기능요원제도,4,/wqxml/usr/10intd/intdBizIdtcag.xml,,Y,,
+"0",MENU0000000264,MENU0000000028,6,학위취득률 통계,5,/wqxml/adm/21cndept/qlfcAcqsStats/qlfcAcqsStats.xml,,N,,
+"0",MENU0000000173,MENU0000000145,7,채용정보,4,/wqxml/usr/50info/workNetList.xml,,Y,,
+"0",MENU0000000154,MENU0000000141,7,인재육성형중소기업 지정사업,4,/wqxml/usr/10intd/intdBizHrdsbc.xml,"",Y,"",""
+"0",MENU0000000250,MENU0000000026,7,참여학교 현황,5,/wqxml/adm/21cndept/schlMng/schlSttn.xml,,Y,,
+"0",MENU0000000162,MENU0000000142,7,인재육성형중소기업지정 신청,4,/wqxml/usr/20aply/smehrd/hrdBizSttn.xml,,Y,,
+"0",MENU0000000255,MENU0000000024,7,실습장비 현황,5,/wqxml/adm/20spclhs/smehrd/smehrdEqpmnMngSttn.xml,"",Y,"",""
+"0",MENU0000000065,MENU0000000022,7,취업맞춤반 운영,5,/wqxml/adm/20spclhs/bizMng/jobCstmClsAdmSttn.xml,,Y,,
+"0",MENU0000000276,MENU0000000145,8,인재육성형지정기업현황,4,/wqxml/usr/50info/dscrsDvlPmSttn.xml,"",Y,"",""
+"0",MENU0000000155,MENU0000000141,8,웹툰으로 보는 사업소개,4,/wqxml/usr/10intd/intdBizWebtoon.xml,,Y,,
+"0",MENU0000000066,MENU0000000022,8,성과평가,5,/wqxml/adm/10bizMng/bizMng/otcmEvalSttn.xml,,Y,,
+"0",MENU0000000163,MENU0000000142,8,인재육성형중소기업지정 신청조회,4,/wqxml/usr/20aply/smehrd/hrdAplyInqr.xml,"",Y,"",""
+"0",MENU0000000256,MENU0000000026,8,학위취득률 통계,5,/wqxml/adm/21cndept/qlfcAcqsStats/qlfcAcqsStats.xml,"",Y,"",""
+"0",MENU0000000174,MENU0000000145,9,인력공동관리협의회,4,/wqxml/usr/50info/manpowerOrgList.xml,"",Y,"",""
+"0",MENU0000000247,MENU0000000022,9,입력마감 관리,5,/wqxml/adm/20spclhs/bizMng/deadlineMng.xml,"",Y,"",""
+"0",MENU0000000183,MENU0000000142,9,사업신청,4,/wqxml/usr/20aply/cmn/bizAplyCltg.xml,,Y,,
+"0",MENU0000000239,MENU0000000141,9,중소기업 인식개선,4,/wqxml/usr/10intd/intdBizAwaimp.xml,,N,,
+"0",MENU0000000257,MENU0000000026,9,졸업자 현황,5,/wqxml/adm/21cndept/gradAcqsStats/gradAcqsStats.xml,"",Y,"",""
+"0",MENU0000000270,MENU0000000022,10,"1팀-1기업 프로젝트 관리",5,/wqxml/adm/20spclhs/bizMng/teamPrjMng.xml,"",Y,"",""
+"0",MENU0000000184,MENU0000000142,10,사업신청현황,4,/wqxml/usr/20aply/cmn/bizAplySttn.xml,,Y,,
+"0",MENU0000000185,MENU0000000142,11,사업선정현황,4,/wqxml/usr/20aply/cmn/bizSelSttn.xml,,Y,,
+"0",MENU0000000224,MENU0000000142,12,업무연락방현황,4,/wqxml/usr/20aply/bizofc/bizofcAplySttn.xml,,Y,,
+"0",MENU0000000186,MENU0000000142,13,학교소식등록,4,/wqxml/usr/20aply/schlNws/schlNwsSttn.xml,,Y,,
+"0",MENU0000000187,MENU0000000142,14,사업참여희망기업조회,4,/wqxml/usr/20aply/spclhs/bizPrtcInsnList.xml,,Y,,
+"0",MENU0000000188,MENU0000000142,15,우수학생등록,4,/wqxml/usr/20aply/spclhs/bestStdnSttn.xml,,N,,
+"0",MENU0000000230,MENU0000000142,16,장기근속자 주택 특별공급 신청조회,4,/wqxml/usr/20aply/hssppl/hsspplAplySttn.xml,"",Y,"",""
+"0",MENU0000000245,MENU0000000142,17,계약학과 학생 관리,4,/wqxml/usr/20aply/cndept/cndeptStdnMng.xml,"",Y,"",""
+"0",MENU0000000271,MENU0000000142,18,계약학과 예산전용 신청,4,/wqxml/usr/20aply/cndept/cndeptBudgetDvrSttn.xml,"",Y,"",""
+"0",MENU0000000190,MENU0000000142,19,전문가신청,4,/wqxml/usr/99mbr/spctrAplyTitle.xml,"",N,"",""
+"0",MENU0000000263,MENU0000000142,20,기술사관 학생 관리,4,/wqxml/usr/20aply/techo/techStdnMng.xml,"",Y,"",""
+"0",MENU0000000272,MENU0000000142,21,기술사관 예산전용 신청,4,/wqxml/usr/20aply/techo/techoBudgetDvrSttn.xml,"",Y,"",""

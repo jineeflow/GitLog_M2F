@@ -1,0 +1,107 @@
+1. xml_list.txt       menu_id - xml
+    쿼리
+---------------------------------------------------    
+2-1. xml파일에서 .do 포함하는 파일 추출하기
+   xml_do_list.txt    xml - do
+   
+   findstr /s  action.*\.do D:\sanhakin\src\main\*.xml > xml_do_list.txt
+   
+   xml_do_list.txt --> xml_do_find.ipynb 통해서 데이터 전처리 후 xml_do.csv 
+
+2-2. xml파일에서 .xml 포함하는 파일 추출하기 ( 내부에서 xml 파일 연결하는 화면)
+   
+   findstr /s  \/wqxml.*\.xml D:\sanhakin\src\main\*.xml | findstr /v /i /c:"//" > xm_lInxml.txt 
+
+---------------------------------------------------  
+3. controller_do.txt  do - controller
+   controller - service -serviceImple - DAO
+
+    findstr /s  \@RequestMapping\(.*\) D:\sanhakin\src\main\*Controller.java > controller_do.txt
+
+INFO [org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping] Mapped URL path
+
+--------------------------------------------------------- 
+4. service / serviceImple /DAO / Controller / _SQl.xm / xml 파일목록 
+
+    dir /s /b D:\sanhakin\src\main\*service.java > service.txt  250
+	dir /s /b D:\sanhakin\src\main\*serviceImpl.java > serviceImpl.txt  368
+	dir /s /b D:\sanhakin\src\main\*DAO.java > DAO.txt  275
+    dir /s /b D:\sanhakin\src\main\*Controller.java > Controller.txt  297
+    dir /s /b D:\sanhakin\src\main\*_SQl.xml > slqXml.txt  322
+    dir /s /b D:\sanhakin\src\main\webapp\*.xml > xml.txt  322
+
+---------------------------------------------------------
+5. DAO_sql.txt  ( DAO - sqlID )  DAO_sql_af.txt (2차가공) --> DAO_sqlID.csv
+
+    /*
+    findstr /s /i /r /c:"update.*\)\;" /c:"delete.*\)" /c:"insert.*\)" /c:"list.*\)" /c:"select.*\)" D:\sanhakin\src\main\*DAO.java > DAO_sql.txt
+    */
+    
+    findstr /s /i /r /c:"\".*\"" "D:\sanhakin\src\main\*DAO.java" | findstr /v /i /c:"@SuppressWarnings" | findstr /v /i /c:"@Repository"  > DAO_sql.txt
+
+--- 파이썬 ---start
+--> 방법1 보안취약
+    import subprocess
+
+    # 명령어 문자열
+    command = r'findstr /s /i /r /c:"\".*\"" "D:\sanhakin\src\main\*DAO.java" | findstr /v /i /c:"@SuppressWarnings" | findstr /v /i /c:"@Repository" > DAO_sql.txt'
+
+    # 명령어 실행
+    subprocess.run(command, shell=True)
+
+--> 방법2  
+import subprocess
+
+# 명령어 및 인자를 리스트로 분리
+command1 = [
+    'findstr',
+    '/s',
+    '/i',
+    '/r',
+    '/c:\".*\"',
+    'D:\\sanhakin\\src\\main\\*DAO.java'
+]
+
+command2 = [
+    'findstr',
+    '/v',
+    '/i',
+    '/c:@SuppressWarnings'
+]
+
+command3 = [
+    'findstr',
+    '/v',
+    '/i',
+    '/c:@Repository',
+    '>',
+    'DAO_sql.txt'
+]
+
+# 명령어 실행
+process1 = subprocess.Popen(command1, stdout=subprocess.PIPE, shell=True)
+process2 = subprocess.Popen(command2, stdin=process1.stdout, stdout=subprocess.PIPE)
+process1.stdout.close()
+result = subprocess.run(command3, stdin=process2.stdout)
+process2.stdout.close()
+--- 파이썬 ---end
+
+
+
+
+---------------------------------------------------------
+6. SQLxml_sqlID.txt  ( SQLxml - sqlID )  SQLxml_sqlID.txt (2차가공) --> DAO_sqlID.csv
+
+    findstr /s /r /c:"\<.*\s*id\s*\=\s*\>" D:\sanhakin\src\main\*_SQL.xml  > SQLxml_sqlID.txt
+
+xml - do - controller - serivece - serviceImple - DAO - sqlmap
+
+xml_do.csv - do_controller.csv - service.txt         - DAO_sqlID.csv (DAO_sql_af.txt)
+                               - serviceImple.txt
+							   - DAO.txt
+                               
+                               
+                               
+/wti/admin/bizDvr/dao/BudgetDvrRqstSttnDAO.java	budgetDvrRqstSttnDAO.selectBudgetDvrRqstSttnList      
+
+/sqlmap/com/admin/bizMng/dbMng/BudgetDvr_SQL.xml	budgetDvrDAO.selectBudgetDvrMstrList                         

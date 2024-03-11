@@ -1,0 +1,25 @@
+INSERT INTO sbctest.wtc_src_file
+(file_id, file_url, file_2nd_path, file_se, file_use_yn, file_rm, register_id)
+select 'SRC_' || LPAD( (ROW_NUMBER () over(order by MENU_URL) + 1489)::text , 6, '0')  as file_id
+     , menu_url
+     , menu_url
+     , 'xml'
+     , 'Y'
+     , null
+     , 'admin'
+ from WTC_MENU 
+where 1=1
+  and nullif(MENU_URL, '') is not null
+  group by menu_url
+;
+
+
+INSERT INTO sbctest.wtc_menu_src
+(menu_id, file_id)
+select menu_id, file_id
+ from WTC_MENU t1
+      inner join wtc_src_file t2
+              on t1.MENU_URL = t2.file_url
+where 1=1
+  and nullif(MENU_URL, '') is not null
+;
